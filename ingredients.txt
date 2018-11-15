@@ -2,4 +2,6 @@ Ingredients for chocolate chip cookies:
 flour
 eggs
 sugar
+butter
+chocolate chips
 
