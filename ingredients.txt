@@ -4,4 +4,7 @@ eggs
 sugar
 butter
 chocolate chips
+sprinkles
+red dye #5
+happiness
 
